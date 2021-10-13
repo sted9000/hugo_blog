@@ -1,4 +1,29 @@
-baseURL = 'https://main.dsxx4skbieerw.amplifyapp.com/'
+baseURL = 'https://tedslocum.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ted Slocum'
 theme = "ink"
+paginate = 5
+
+[params]
+	subtitle = "A blog that ponders gambling, programming, golf, wellbeing, and randomness."
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+# [[menu.main]]
+# name = "About"
+# url = "/about"
+# weight = 3
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/sted9000"
