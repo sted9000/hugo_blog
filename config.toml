@@ -5,7 +5,7 @@ theme = "ink"
 paginate = 5
 
 [params]
-	subtitle = "A blog that ponders gambling, programming, golf, wellbeing, and randomness."
+	subtitle = "Absurdity, gambling, mindfulness, programming, golf, well-being, and my opinions."
 
 # Nav.
 [[menu.main]]
