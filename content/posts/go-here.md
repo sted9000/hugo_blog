@@ -1,11 +1,15 @@
 ---
-title: "Go Here"
+title: "New Blog Writing Routine"
 date: 2021-10-19T23:19:18-04:00
 draft: false
 ---
 
-I often think about what I would do if I have a billion dollars. Near the top of the list would be to create a place with excellent mental health and community service skills. I am sure many places exist, but I want my own.
+Starting in November I am going to experiment with a new way to write posts for the blog. I am going to take one day every three weeks and dedicate it to writing 21 posts. The hypothesis is as follows:
 
-Then, when I see a homeless person or someone having a break on the streets, rather than feel sad and lament the fact that I don't have the skills or the heart to help them, I would be able to give them a card and say "How are you? It looks like you could use some help. If you want some help with anything go here and we will try."
+1. The quality will be better. Waiting until 11pm each to write is surely not for quality.
+1. The content will be more meaningful. I will have 1-21 days to digest and think about topics before writing them down.
+1. It will help me retain more knowledge through [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition#:~:text=Spaced%20repetition%20is%20an%20evidence,is%20usually%20performed%20with%20flashcards.&text=Although%20the%20principle%20is%20useful,retain%20them%20indefinitely%20in%20memory.).
+1. Whenever I hear, read, or think about something that I want to write about I can jot it down, knowing that I will come back to it soon.
+1. I tend to do silly 1-2 week experiments. Writing posts every three weeks fits nicely with that rhythm.
+1. This practice will be a great excuse for coffee and a donut. 
 
-I'm sure this wouldn't be the best allocation of resources, but I am tired of seeing people struggling on the streets and simply walking past them. 
