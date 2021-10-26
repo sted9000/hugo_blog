@@ -10,5 +10,3 @@ Done!
 It took all day and was highly enjoyable. I have poured everything out and have nothing left to say... other than I hope you enjoy and that the auto-poster works :)
 
 See you on the flip side.
-
-![new-swing](/content/posts/golf-lesson-2/new-swing.jpeg)
