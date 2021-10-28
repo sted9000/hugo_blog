@@ -22,5 +22,4 @@ It was a fun two months of collecting... spending... I mean training.
 
 I am running the 26.2 miles today!
 
-![marathon-equipment.md](./marathon-equipment.jpg)
-
+![marathon-equipment](/marathon-equipment.jpg)
