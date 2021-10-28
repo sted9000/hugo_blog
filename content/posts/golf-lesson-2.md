@@ -14,6 +14,6 @@ The tell-tale sign of accomplishing this is the angle of my forearm compared to 
 
 I can't wait to keep working on my swing with my coach throughout the winter months.
 
-![old-swing](./old-swing.png)
+![old-swing](/old-swing.png)
 
-![new-swing](./new-swing.jpeg)
+![new-swing](/new-swing.jpeg)
