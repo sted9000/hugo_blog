@@ -3,6 +3,8 @@ import re
 import os
 import sys
 import subprocess
+import toml
+cfg = toml.load("config.toml")
 
 date = datetime.now() - timedelta(hours = 1)
 
@@ -46,7 +48,7 @@ if os.path.exists(path):
     f.write('date: \"' + date.strftime('%Y-%m-%d') +
             'T' + date.strftime('%H:%M:%S') + 'Z\"\n')
     # TODO: make this take an env variable
-    f.write('author: Ted Slocum\n')
+    f.write(f"author: {cfg['author']}\n")
     f.write('title: \"' + name + '\"\n')
 #     if len(categories) > 0:
 #         f.write('categories:\n')

@@ -1,5 +1,6 @@
 baseURL = 'https://tedslocum.com/'
 languageCode = 'en-us'
+author = 'Ted Slocum'
 title = 'Ted Slocum'
 theme = "ink"
 paginate = 5
