@@ -6,7 +6,7 @@ draft: false
 
 The idea: Work two hours a day next year on endeavors with *immediate remuneration.*
 
-My lovely girlfriend <strike>bitches about</strike> bemoans the fact that I don't have a salaried or regular paying job. She understandably doesn't understand or feel completely comfortable with my choice to forgo short-term money and stress as part of my plan to build things and tinker as a means of making money in the long-term.
+My lovely girlfriend "bemoans" the fact that I don't have a salaried or regular paying job. She understandably doesn't understand or feel completely comfortable with my choice to forgo short-term money and stress as part of my plan to build things and tinker as a means of making money in the long-term.
 
 But I want to make her happy. And so a new experiment is in order: The two hour work day!
 
